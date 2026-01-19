@@ -19,7 +19,24 @@ I enjoy converting raw data into actionable insights that help businesses make b
 
 ## 🛠 Tech Stack & Tools
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## ⚙ Platforms
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 ## 🛠 Skills
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -38,12 +55,6 @@ I enjoy converting raw data into actionable insights that help businesses make b
 
 *(Projects will be updated regularly)*
 
----
-
-- <h1 align="center">👋 Hi, I'm Prince Chaurasiya</h1>
-<h3 align="center">📊 Data Analyst | Python | SQL | Excel | Power BI</h3>
-
----
 
 ## 🌱 Current Focus
 - Building **interactive dashboards** using Excel, Power BI & Tableau  
